@@ -1,0 +1,19 @@
+<!--My first web page-->
+<!DOCTYPE html>
+<html>
+        <head>
+            <title>My First Web Page</title>
+        </head>
+        <body>
+            <h1>Hello Everyone</h1>
+            <h2>Sub header</h2>
+            <h3>Third Header</h3>
+        </body>
+
+    <img src="">
+    <br>
+    <a href="https://www.google.com">This is a link to Google.</a>
+    <br>
+    <strong><a href="htpps://www.bing.com" target="blank">This is a page to Bing.</a></strong>
+    
+</html>
